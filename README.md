@@ -14,7 +14,7 @@
 ![](https://github-readme-streak-stats.herokuapp.com/?user=mahadali05&theme=default&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=mahadali05&theme=default&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-[![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=MahadAli)](https://github.com/anuraghazra/github-readme-stats)
+[![Mahad's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=MahadAli)](https://github.com/anuraghazra/github-readme-stats)
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=light)
